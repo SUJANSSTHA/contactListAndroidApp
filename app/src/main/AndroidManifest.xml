@@ -14,7 +14,7 @@
         android:theme="@style/Theme.ContactList"
         tools:targetApi="31" >
         <activity android:name=".MainPage">
-    ...
+
         </activity>
         </application>
 
